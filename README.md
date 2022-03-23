@@ -4,3 +4,4 @@ Olá! Bem vindo ao meu livro de receitgas :call_me_hand:
 
 - Strogonoff 
 - Pavê
+- Sorvete
